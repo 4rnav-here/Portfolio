@@ -5,7 +5,7 @@ import { FiMail } from "react-icons/fi";
 const NavBar = () => {
   return (
     <div>
-      <nav className="flex justify-between items-center mb-15 py-6">
+      <nav className="flex justify-between items-center mb-5 py-6">
         <div className="flex flex-shrink-0 items-center text-2xl text-white">
         Building Scalable & Efficient Web Apps
         </div>

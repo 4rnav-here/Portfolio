@@ -47,7 +47,14 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
   {
-    title: "Task Management App",
+    title: "Fuck Management App",
+    image: project2,
+    description:
+      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
+    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+  },
+  {
+    title: "Fuck Management App",
     image: project2,
     description:
       "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
