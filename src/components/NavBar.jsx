@@ -6,8 +6,8 @@ const NavBar = () => {
   return (
     <div>
       <nav className="flex justify-between items-center mb-15 py-6">
-        <div className="flex flex-shrink-0 items-center text-3xl text-white">
-          Arnav Trivedi
+        <div className="flex flex-shrink-0 items-center text-2xl text-white">
+        Building Scalable & Efficient Web Apps
         </div>
 
         <div className="m-8 flex items-center justify-between gap-4 text-2xl">
