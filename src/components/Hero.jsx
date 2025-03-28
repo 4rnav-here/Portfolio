@@ -1,5 +1,5 @@
 import React from "react";
-import profile_pic from "../assets/assets/profile_pic.jpg";
+import profile_pic from "../assets/assets/new_pfp.jpg";
 import { motion } from "motion/react";
 
 const Hero = () => {
@@ -30,7 +30,7 @@ const Hero = () => {
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 1, ease: "easeOut" }}
         >
-          <img src={profile_pic} className="rounded-lg shadow-lg h-100 w-100" />
+          <img src={profile_pic} className="rounded-lg shadow-lg h-100 w-140" />
         </motion.div>
       </div>
     </div>
