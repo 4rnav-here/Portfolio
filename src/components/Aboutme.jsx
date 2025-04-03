@@ -13,7 +13,7 @@ const Aboutme = () => {
             <img src={profile_pic} className="rounded-lg shadow-lg h-60 w-60" />
           </div>
           <div className="box-border h-80 w-120">
-            <p className="justify-center font-thin">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, porro corrupti iure asperiores a expedita atque inventore sed labore esse, nisi hic delectus dolore minus repudiandae nihil iste sint enim cupiditate molestiae deleniti voluptatibus debitis. Voluptas optio iste pariaturminus repudiandae nihil iste sint enim cupiditate molestiae deleniti voluptatibus debitis. Voluptas optio iste pariatur ad.</p>
+            <p className="justify-center font-thin">I’m a third-year Computer Science and Engineering student at VIT, deeply interested in web development, data analysis, and machine learning. With strong communication skills and a collaborative mindset, I thrive in team environments. I’ve also participated in hackathons, completed certifications, and built impactful projects.</p>
           </div>
         </div>
       </div>

@@ -17,12 +17,7 @@ const Hero = () => {
             Full Stack Developer
           </span>
           <p className="font-thin">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor rem
-            ullam esse non perferendis inventore dignissimos delectus obcaecati
-            ipsa sapiente magni quasi cumque accusamus fugiat, nam facilis
-            aspernatur repellat incidunt. delectus obcaecati ipsa sapiente magni
-            quasi cumque accusamus fugiat, nam facilis aspernatur repellat
-            incidunt
+          Hey there! I’m Arnav, a passionate developer with expertise in web development, data science, and machine learning. I love building scalable applications, exploring new technologies, and solving real-world problems through code. With experience in frameworks like Next.js, Express, and MongoDB, I create efficient, user-friendly solutions. Whether it’s developing innovative web apps or diving into data-driven insights, I’m always eager to learn and grow. Let’s create something amazing together!
           </p>
         </motion.div>
         <motion.div className="px-30"
